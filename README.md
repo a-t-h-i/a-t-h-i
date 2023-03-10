@@ -11,7 +11,7 @@
 
 - Send me an email: **hlubiathenkosi@gmail.com**
 
-- ⚡ Fun fact **I've got some cool knife throwing skills 🥷**
+- ⚡ Fun fact: **I've got some cool knife throwing skills 🥷**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
