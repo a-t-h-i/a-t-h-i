@@ -1,4 +1,4 @@
-<h1 align="center">Hello there traveller 🧙🏾. My name is Athenkosi Hlubi</h1>
+<h3 align="center">Hello traveller 🧙🏾. My name is Athenkosi Hlubi</h3>
 <h3 align="center">A curious and dedicated programmer who enjoys tinkering and solving problems ⚒️🧑🏾‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-t-h-i&label=Profile%20views&color=0e75b6&style=flat" alt="a-t-h-i" /> </p>
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Django, Python for Data Science, AWS**
 
-- 👯 I’m looking to collaborate on **Open Source and FOSS software.**
+- 👯 I’m looking to collaborate on **Open Source and FOSS projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/a-t-h-i](https://github.com/a-t-h-i)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **hlubiathenkosi@gmail.com**
 
-- ⚡ Fun fact **I've got some mad knife throwing skills.**
+- ⚡ Fun fact **I've got pretty cool knife throwing skills🥷!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
