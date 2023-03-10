@@ -5,7 +5,7 @@
 
 - 🔭 At the moment, I'm working on [Football Stats](https://github.com/a-t-h-i/Football-Stats)
 
-- 🌱 I’m in the process of learning: **AWS, Python for data science and Django**
+- 🌱 I’m in the process of learning: **AWS, Django and SpringBoot**
 
 - 💬 Ask me about **Python, Java and Linux**
 
