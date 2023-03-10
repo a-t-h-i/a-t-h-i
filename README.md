@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-t-h-i&label=Views&color=0e75b6&style=flat" alt="a-t-h-i" /> </p>
 
-- 🔭 I’m currently working on [Football Stats](https://github.com/a-t-h-i/Football-Stats)
+- 🔭 At the moment, I'm working on [Football Stats](https://github.com/a-t-h-i/Football-Stats)
 
-- 🌱 I’m currently learning **Django, Python for Data Science and AWS**
+- 🌱 I’m in the process of learning: **AWS, Python for data science and Django**
 
 - 💬 Ask me about **Python, Java and Linux**
 
 - Send me an email: **hlubiathenkosi@gmail.com**
 
-- ⚡ Fun fact **I've got some cool knife throwing skills 🥷**
+- ⚡ Fun fact, **I've got some cool knife throwing skills 🥷**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
