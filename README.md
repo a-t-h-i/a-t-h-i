@@ -1,7 +1,8 @@
 <h1 align="center">Hello there! My name is Athenkosi Hlubi.</h1>
 <h3 align="center">A curious and dedicated programmer who enjoys tinkering and solving problems ⚒️🧑🏾‍💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a-t-h-i&label=Views&color=0e75b6&style=flat" alt="a-t-h-i" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=a-t-h-i&label=Visitors&color=0e75b6&style=flat" alt="a-t-h-i" /> </p>
+
 - 🔭 I’m currently working on [Football Stats](https://github.com/a-t-h-i/Football-Stats)
 
 - 🌱 I’m currently learning **Django, Python for Data Science and AWS**
@@ -10,7 +11,7 @@
 
 - Send me an email: **hlubiathenkosi@gmail.com**
 
-- ⚡ Fun fact: **I've got some cool knife throwing skills 🥷**
+- ⚡ Fun fact **I've got some cool knife throwing skills 🥷**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
