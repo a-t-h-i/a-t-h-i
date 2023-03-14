@@ -2,7 +2,6 @@
 <h3 align="center">A curious and dedicated programmer who enjoys tinkering and solving problems ⚒️🧑🏾‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-t-h-i&label=Views&color=0e75b6&style=flat" alt="a-t-h-i" /> </p>
-
 - 🔭 I’m currently working on [Football Stats](https://github.com/a-t-h-i/Football-Stats)
 
 - 🌱 I’m currently learning **Django, Python for Data Science and AWS**
