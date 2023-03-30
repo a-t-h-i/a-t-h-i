@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! My name is Athenkosi Hlubi.</h1>
+<h1 align="center">Hello there! My name is Athenkosi.</h1>
 <h3 align="center">A curious programmer who enjoys tinkering and solving problems ⚒️🧑🏾‍💻</h3>
 
 - 👨🏾‍💻 I’m currently working on [Football Stats](https://github.com/a-t-h-i/Football-Stats)
