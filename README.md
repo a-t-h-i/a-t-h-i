@@ -1,8 +1,6 @@
 <h1 align="center">Hello there! My name is Athenkosi Hlubi.</h1>
 <h3 align="center">A curious programmer who enjoys tinkering and solving problems ⚒️🧑🏾‍💻</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-t-h-i" alt="a-t-h-i" /></a> </p>
-
 - 👨🏾‍💻 I’m currently working on [Football Stats](https://github.com/a-t-h-i/Football-Stats)
 
 - 🌱 I’m currently learning **Django and Chart.js**
