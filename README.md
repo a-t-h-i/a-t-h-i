@@ -12,9 +12,13 @@ I'm passionate about the latest trends in tech and solving problems you didn't e
 - 🌱 Right now I’m learning **Django and Springboot**
 
 - Ask me about **anything related to Linux 🐧**
-- When I'm not programming I like to: 
+
+<h4>When I'm not programming I like to:</h4> 
+
 - Tinker with high fidelity audio products 🎛️
-- Play chess ♟️ or 🎱 ball pool .
+
+- Play chess ♟️ or 🎱 ball pool.
+
 - 📫 Feel free to send me an email **hlubiathenkosi@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
