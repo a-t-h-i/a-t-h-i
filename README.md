@@ -17,6 +17,8 @@ I'm passionate about the latest trends in tech and solving problems you didn't e
 
 - Tinker with high fidelity audio products 🎛️
 
+- Contribute to Wikipedia
+
 - Play chess ♟️ or 🎱 ball pool.
 
 📫 Feel free to send me an email **hlubiathenkosi@gmail.com**
