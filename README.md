@@ -9,7 +9,7 @@ I'm passionate about the latest trends in tech and solving problems you didn't e
 
 - 🛠️ Currently, I'm working on [Football Stats](https://github.com/a-t-h-i/Football-Stats)
 
-- 🌱 Right now I’m learning **Django and Springboot**
+- 🌱 Right now I’m learning **Django**
 
 - Ask me about **anything related to Linux 🐧**
 
