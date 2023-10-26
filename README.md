@@ -4,7 +4,7 @@
     <br>
     <br>
     <p>I'm currently learning <strong>TypesScript </strong><img height="13" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"> and enjoying it ^_^</p>
-    <p>I'm a huge <strong>Linux</strong> <img height="13" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> nerd</p> <sup>(I use Arch btw. JK :P)</sup></p>
+    <p>I'm a huge <strong>Linux</strong><img height="13" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">nerd</p><sup>(I use Arch btw. JK :P)</sup></p>
     <strong>When I'm not debugging or spawning bugs I like to:</strong>
     <p>Tinker with high fidelity audio products 🎛️</p>
     <p>I also play chess ♟️ and 🎱 pool (I'm bad at both but still enjoy playing).</p>
