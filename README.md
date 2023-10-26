@@ -7,7 +7,7 @@
     <p>I'm a huge <strong>Linux</strong><img height="13" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">nerd</p><sup>(I use Arch btw. JK :P)</sup></p>
     <strong>When I'm not debugging or spawning bugs I like to:</strong>
     <p>Tinker with high fidelity audio products 🎛️</p>
-    <p>I also play chess ♟️ and 🎱 pool (I'm bad at both but still enjoy playing).</p>
+    <p>I also play chess ♟️ and 🎱 pool, I'm bad at both but still enjoy playing nonetheless.</p>
     <p>Thank you for stopping by, feel free to send me an email <strong> <a href="mailto:hlubiathenkosi@gmail.com">hlubiathenkosi@gmail.com</a></strong></p>
     <strong>Behold! My arsenal of tools! 🛠️:</strong>
     <p style="text-align: center;">
