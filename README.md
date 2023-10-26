@@ -2,7 +2,7 @@
   <table border="0">
     <tr border="0">
       <td width="70%" border="0">
-        <h4 align="left">Hello there, I'm Athi (pronounced Arti). I'm currently working as a fullstack web developer, based in Gauteng, South Africa. I love learning about the latest trends in tech and solving problems using the power of code.</h4>
+        <string>Hello there, I'm Athi (pronounced Arti). I'm currently working as a fullstack web developer, based in Gauteng, South Africa. I love learning about the latest trends in tech and solving problems using the power of code</strong>
         <p>* Right now I’m learning <strong>TypesScript </strong><img height="13" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></img></p>
         <p>* I'm a huge <strong>Linux</strong> <img height="13" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> nerd</img> <sup>(I use Arch btw. JK :P)<sup></p>
         <h4>When I'm not debugging or creating bugs I like to:</h4>
