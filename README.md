@@ -3,7 +3,7 @@
     <strong>Hello there 👋🏾, I'm Athi <sup>(pronounced Ah-tee)</sup>. I'm currently working as a fullstack web developer, based in Gauteng, South Africa. I love learning about the latest trends in tech and solving complex problems with software.</strong>
     <hr>
     <p>I'm currently learning <strong>TypesScript </strong><img height="13" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"> and enjoying it ^_^</p>
-    <p>I'm a huge <strong>Linux</strong><img height="13" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">nerd</p><sup>(I use Arch btw. JK :P)</sup></p>
+    <p>I'm a huge <strong>Linux</strong><img height="13" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">nerd<sup>I use Arch btw. JK I'm team Fedora</sup></p></p>
     <strong>When I'm not debugging or spawning bugs I like to:</strong>
     <p>- Tinker with high fidelity audio products 🎛️</p>
     <p>- I also play chess ♟️ and 🎱 pool, I'm bad at both but still enjoy playing nonetheless.</p>
