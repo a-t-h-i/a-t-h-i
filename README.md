@@ -25,7 +25,6 @@
         </p>
       </td>
       <td >
-        <img align="right" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="200" height="150"/>
         <p align="center">
           <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-t-h-i&show_icons=true&locale=en&layout=compact" alt="a-t-h-i"/>
           <img src="https://github-readme-stats.vercel.app/api?username=a-t-h-i&show_icons=true&locale=en" alt="a-t-h-i"/>
