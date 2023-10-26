@@ -1,13 +1,13 @@
 <div style="background-color: #21252a; border-radius: 10px; border-none; display: flex; justify-content: space-between;">
   <div style="width: 70%; padding: 20px; text-align: left;">
-    <strong>Hello there 👋🏾, I'm Athi <sup>(pronounced Ah-tee)</sup>. I'm currently working as a fullstack web developer, based in Gauteng, South Africa. I love learning about the latest trends in tech and solving problems using the power of code</strong>
-    <p>Right now I’m learning <strong>TypesScript </strong><img height="13" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></p>
+    <strong>Hello there 👋🏾, I'm Athi <sup>(pronounced Ah-tee)</sup>. I'm currently working as a fullstack web developer, based in Gauteng, South Africa. I love learning about the latest trends in tech and solving problems using the power of technology.</strong>
+    <p>I'm currently learning <strong>TypesScript </strong><img height="13" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"> and enjoying it ^_^</p>
     <p>I'm a huge <strong>Linux</strong> <img height="13" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> nerd</p> <sup>(I use Arch btw. JK :P)</sup></p>
-    <h4>When I'm not debugging or creating bugs I like to:</h4>
+    <strong>When I'm not debugging or creating bugs I like to:</strong>
     <p>Tinker with high fidelity audio products 🎛️</p>
     <p>I also like to play chess ♟️ or 🎱 pool (Honestly, I'm bad at both but still enjoy playing).</p>
     <p>Thank you for stopping by, feel free to send me an email <strong> <a href="mailto:hlubiathenkosi@gmail.com">hlubiathenkosi@gmail.com</a></strong></p>
-    <h4 style="text-align: center;">Behold! My arsenal of tools! 🛠️:</h4>
+    <strong>Behold! My arsenal of tools! 🛠️:</strong>
     <p style="text-align: center;">
       <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
       <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/></a>
