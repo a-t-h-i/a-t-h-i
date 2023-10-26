@@ -1,6 +1,6 @@
 <div style="background-color: #21252a; border-radius: 10px; border-none; display: flex; justify-content: space-between;">
   <div style="width: 70%; padding: 20px; text-align: left;">
-    <h4><strong>Hello there 👋🏾, I'm Athi <sup>(pronounced Artie)</sup>. I'm currently working as a fullstack web developer, based in Gauteng, South Africa. I love learning about the latest trends in tech and solving problems using the power of code</strong>
+    <strong>Hello there 👋🏾, I'm Athi <sup>(pronounced Ah-tee)</sup>. I'm currently working as a fullstack web developer, based in Gauteng, South Africa. I love learning about the latest trends in tech and solving problems using the power of code</strong>
     <p>Right now I’m learning <strong>TypesScript </strong><img height="13" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></p>
     <p>I'm a <strong>Linux</strong> <img height="13" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">nerd</p><sup>(I use Arch btw. JK :P)</sup></p>
     <h4>When I'm not debugging or creating bugs I like to:</h4>
