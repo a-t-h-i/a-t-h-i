@@ -26,8 +26,8 @@
   </div>
   <hr>
   <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-t-h-i&show_icons=true&locale=en&layout=compact" alt="a-t-h-i" style="height: 14vw;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=a-t-h-i&show_icons=true&locale=en" alt="a-t-h-i" style="height: 14vw;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-t-h-i&show_icons=true&locale=en&layout=compact" alt="a-t-h-i" style="height: 14vw; width: 25vw;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=a-t-h-i&show_icons=true&locale=en" alt="a-t-h-i" style="height: 14vw; width: 25vw;"/>
 </div>
 </div>
 
