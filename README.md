@@ -1,13 +1,14 @@
 <div style="background-color: #21252a; border-radius: 10px; border-none; display: flex; justify-content: space-between;">
   <div style="width: 70%; padding: 20px; text-align: left;">
     <strong>Hello there 👋🏾, I'm Athi <sup>(pronounced Ah-tee)</sup>. I'm currently working as a fullstack web developer, based in Gauteng, South Africa. I love learning about the latest trends in tech and solving problems using the power of technology.</strong>
-    <br>
+    <hr>
     <br>
     <p>I'm currently learning <strong>TypesScript </strong><img height="13" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"> and enjoying it ^_^</p>
     <p>I'm a huge <strong>Linux</strong><img height="13" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">nerd</p><sup>(I use Arch btw. JK :P)</sup></p>
     <strong>When I'm not debugging or spawning bugs I like to:</strong>
-    <p>Tinker with high fidelity audio products 🎛️</p>
-    <p>I also play chess ♟️ and 🎱 pool, I'm bad at both but still enjoy playing nonetheless.</p>
+    <p>- Tinker with high fidelity audio products 🎛️</p>
+    <p>- I also play chess ♟️ and 🎱 pool, I'm bad at both but still enjoy playing nonetheless.</p>
+    <hr>
     <p>Thank you for stopping by, feel free to send me an email <strong> <a href="mailto:hlubiathenkosi@gmail.com">hlubiathenkosi@gmail.com</a></strong></p>
     <strong>Behold! My arsenal of tools! 🛠️:</strong>
     <p style="text-align: center;">
@@ -24,6 +25,7 @@
       <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
     </p>
   </div>
+  <hr>
   <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-t-h-i&show_icons=true&locale=en&layout=compact" alt="a-t-h-i" style="width: 45%;"/>
   <img src="https://github-readme-stats.vercel.app/api?username=a-t-h-i&show_icons=true&locale=en" alt="a-t-h-i" style="width: 45%;"/>
