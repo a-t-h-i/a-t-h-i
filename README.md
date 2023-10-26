@@ -2,13 +2,13 @@
   <table style="border-radius: 10px; background-color: #282c34;" border="0">
     <tr>
       <td width="70%">
-        <h4 align="left">Hello there, I'm Athi (pronounced Arti). I'm currently working as a fullstack web developer, and I'm based in Gauteng, South Africa. I love learning about the latest trends in tech and solving problems using the power of code 🦸🏾‍♂️. <sup>(although sometimes I just create problems I didn't even know I could 🥲)</sup></h4>
-        <p>- 🌱 Right now I’m learning <strong>TypesScript</strong></p>
+        <h4 align="left">Hello there, I'm Athi (pronounced Arti). I'm currently working as a fullstack web developer, and I'm based in Gauteng, South Africa. I love learning about the latest trends in tech and solving problems using the power of code. <sup>sometimes I just create problems I didn't even know I could ^_^</sup></h4>
+        <p>- Right now I’m learning <strong>TypesScript</strong></p>
         <p>- Ask me about anything related to <strong>Linux</strong> 🐧 (I use Arch btw. JK :P)</p>
         <h4>When I'm not debugging or creating bugs I like to:</h4>
-        <p>- Tinker with high fidelity audio products 🎛️</p>
-        <p>- I also like to play chess ♟️ or 🎱 pool (Honestly, I'm bad at both but still enjoy playing).</p>
-        <p>Thank you for visiting, feel free to send me an email <strong>hlubiathenkosi@gmail.com</strong></p>
+        <p>* Tinker with high fidelity audio products 🎛️</p>
+        <p>* I also like to play chess ♟️ or 🎱 pool (Honestly, I'm bad at both but still enjoy playing).</p>
+        <p>Thank you for stopping by, feel free to send me an email <strong>hlubiathenkosi@gmail.com</strong></p>
         <h4 align="center">Behold! My arsenal of tools! 🛠️:</h4>
         <p align="center">
           <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
@@ -24,7 +24,7 @@
           <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
         </p>
       </td>
-      <td width="30%">
+      <td width="auto">
         <img align="right" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="150" height="150"/>
         <p align="center">
           <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-t-h-i&show_icons=true&locale=en&layout=compact" alt="a-t-h-i"/>
