@@ -1,10 +1,10 @@
 <div style="background-color: #21252a; border-radius: 10px;">
-  <table style="border-radius: 10px; background-color: #282c34;" border="0">
-    <tr>
-      <td width="70%">
+  <table border="0">
+    <tr border="0">
+      <td width="70%" border="0">
         <h4 align="left">Hello there, I'm Athi (pronounced Arti). I'm currently working as a fullstack web developer, and I'm based in Gauteng, South Africa. I love learning about the latest trends in tech and solving problems using the power of code. <sup>sometimes I just create problems I didn't even know I could ^_^</sup></h4>
-        <p>- Right now I’m learning <strong>TypesScript</strong></p>
-        <p>- Ask me about anything related to <strong>Linux</strong> 🐧 (I use Arch btw. JK :P)</p>
+        <p>* Right now I’m learning <strong>TypesScript </strong><img height="13" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></img></p>
+        <p>* I'm a huge <strong>Linux</strong> <img height="13" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> nerd</img> (I use Arch btw. JK :P)</p>
         <h4>When I'm not debugging or creating bugs I like to:</h4>
         <p>* Tinker with high fidelity audio products 🎛️</p>
         <p>* I also like to play chess ♟️ or 🎱 pool (Honestly, I'm bad at both but still enjoy playing).</p>
