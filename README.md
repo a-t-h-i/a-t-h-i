@@ -16,12 +16,11 @@ Backend-leaning full-stack developer. 3+ years writing code that (usually) compi
 
 - **[Xure Consent](https://app.xureid.co.za/):** Consent management platform for the SA market. Go backend, React SPA.
   [Consumer App](https://app.xureid.co.za/app/) · [API](https://dev.xureid.co.za) · [Admin Portal](https://portal.xureid.co.za)
-- **[Booah](https://github.com/a-t-h-i/booah):** Community Q&A for word and phrase pronunciations and translations. Answers are voice-recorded and upvoted/downvoted, Reddit-style. Go + React + PostgreSQL. (Offline, repo's public.)
-- More public work pinned below ↓
+- **[Booah](https://github.com/a-t-h-i/booah):** Community Q&A for word and phrase pronunciations and translations. Answers are voice-recorded and upvoted/downvoted, Reddit-style. Go + React + PostgreSQL. (currently offline...)
 
 ### ♟️ Off the clock
 
-Audiophile (yes, I can hear the difference) · Chess ([lichess](https://lichess.org/@/mr_cuddles) | [chess.com](https://www.chess.com/member/AHlubi)) · Gaming · Linux rabbit holes
+I'm an audiophile (yes, I can hear the difference) · Chess ([lichess](https://lichess.org/@/mr_cuddles) | [chess.com](https://www.chess.com/member/AHlubi)) · Gaming · Linux rabbit holes
 
 ### 📬
 
