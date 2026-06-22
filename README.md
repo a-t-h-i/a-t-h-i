@@ -8,8 +8,6 @@ Backend-leaning full-stack developer. 3+ years writing code that (usually) compi
 
 **Frontend:** Svelte · Angular · jQuery (when I have to)
 
-**Backend:** Go · ASP.NET · Django (rusty but still counts)
-
 **Data:** PostgreSQL · SQL Server · SQLite
 
 **Infra:** Linux · Docker · Azure · Nginx · systemd
