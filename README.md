@@ -1,31 +1,31 @@
 ## Hi, I'm Athenkosi 👋
 
-Backend-leaning full-stack developer. 3+ years writing code that (usually) works on the first deploy. I treat my projects like chess — no blunders, think three moves ahead.
+Backend-leaning full-stack developer. 3+ years writing code that (usually) compiles on the first try. Most of my work lives in private repos, so yes, the GitHub stats below are lying to you. Check the pinned repos for what I can actually show.
 
 ### 🛠 Stack
 
-**Languages** — Go · Python · C# · TypeScript · JavaScript · SQL
+**Languages:** Go · Python · C# · TypeScript · JavaScript · SQL
 
-**Frontend** — Svelte · Angular · jQuery (when I have to)
+**Frontend:** Svelte · Angular · jQuery (when I have to)
 
-**Backend** — Go · ASP.NET · Django (rusty but still counts)
+**Backend:** Go · ASP.NET · Django (rusty but still counts)
 
-**Data** — PostgreSQL · SQL Server · SQLite
+**Data:** PostgreSQL · SQL Server · SQLite
 
-**Infra** — Linux · Docker · Azure · Nginx · systemd
+**Infra:** Linux · Docker · Azure · Nginx · systemd
 
-**Editor** — Neovim (btw)
+**Editor:** Neovim (btw)
 
 ### 🔨 Building
 
-- **[Xure Consent](https://app.xureid.co.za/app/)** — Consent management platform for the SA market. Go backend, React SPA.
-  - [Consumer App](https://app.xureid.co.za/app/) · [API](https://app.xureid.co.za/api/v1/) · [Admin Portal](https://app.xureid.co.za/admin/login)
-- **[Booah](http://178.105.215.3:3001)** — Social Q&A platform. Go + React + SQLite.
-- More pinned below ↓
+- **[Xure Consent](https://app.xureid.co.za/app/):** Consent management platform for the SA market. Go backend, React SPA.
+  [Consumer App](https://app.xureid.co.za/app/) · [API](https://app.xureid.co.za/api/v1/) · [Admin Portal](https://app.xureid.co.za/admin/login)
+- **[Booah](http://178.105.215.3:3001):** Social Q&A platform. Go + React + SQLite.
+- More public work pinned below ↓
 
 ### ♟️ Off the clock
 
-Audiophile (yes, I can hear the difference) · Chess ([lichess](https://lichess.org/@/mr_cuddles) · [chess.com](https://www.chess.com/member/AHlubi)) · Gaming · Linux rabbit holes
+Audiophile (yes, I can hear the difference) · Chess ([lichess](https://lichess.org/@/mr_cuddles) | [chess.com](https://www.chess.com/member/AHlubi)) · Gaming · Linux rabbit holes
 
 ### 📬
 
