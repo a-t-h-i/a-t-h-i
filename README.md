@@ -1,6 +1,6 @@
 ## Hi, I'm Athenkosi 👋
 
-Backend-leaning full-stack developer. 3+ years writing code that (usually) compiles on the first try. Most of my work lives in private repos, so yes, the GitHub stats below are lying to you. Check the pinned repos for what I can actually show.
+Backend-leaning full-stack developer. 3+ years writing code that (usually) compiles on the first try. Most of my work lives in private repos, so yes, the GitHub stats below are lying to you.
 
 ### 🛠 Stack
 
