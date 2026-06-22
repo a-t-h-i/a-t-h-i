@@ -18,8 +18,8 @@ Backend-leaning full-stack developer. 3+ years writing code that (usually) compi
 
 ### 🔨 Building
 
-- **[Xure Consent](https://app.xureid.co.za/app/):** Consent management platform for the SA market. Go backend, React SPA.
-  [Consumer App](https://app.xureid.co.za/app/) · [API](https://app.xureid.co.za/api/v1/) · [Admin Portal](https://app.xureid.co.za/admin/login)
+- **[Xure Consent](https://app.xureid.co.za/):** Consent management platform for the SA market. Go backend, React SPA.
+  [Consumer App](https://app.xureid.co.za/app/) · [API](https://dev.xureid.co.za) · [Admin Portal](https://portal.xureid.co.za)
 - **[Booah](http://178.105.215.3:3001):** Social Q&A platform. Go + React + SQLite.
 - More public work pinned below ↓
 
