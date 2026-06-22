@@ -10,7 +10,7 @@ Backend-leaning full-stack developer. 3+ years writing code that (usually) compi
 
 **Data:** PostgreSQL · SQL Server · SQLite
 
-**Infra:** Linux · Docker · Azure · Nginx · systemd
+**Infra:** Linux · Docker · Azure · Nginx
 
 **Editor:** Neovim (btw)
 
