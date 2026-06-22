@@ -12,8 +12,6 @@ Backend-leaning full-stack developer. 3+ years writing code that (usually) compi
 
 **Infra:** Linux · Docker · Azure · Nginx
 
-**Editor:** Neovim (btw)
-
 ### 🔨 Current Projects
 
 - **[Xure Consent](https://app.xureid.co.za/):** Consent management platform for the SA market. Go backend, React SPA.
