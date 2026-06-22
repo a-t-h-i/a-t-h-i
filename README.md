@@ -20,7 +20,7 @@ Backend-leaning full-stack developer. 3+ years writing code that (usually) compi
 
 ### ♟️ Off the clock
 
-I'm an audiophile · Chess nerd ([lichess](https://lichess.org/@/mr_cuddles) | [chess.com](https://www.chess.com/member/AHlubi)) · Gaming (when I get the time...) · Linux (FOSS) fanatic 
+I'm an audiophile · Chess nerd ([lichess](https://lichess.org/@/mr_cuddles) | [chess.com](https://www.chess.com/member/AHlubi)) · Gamer (when I get the time...) · Linux (FOSS) fanatic 
 
 ### 📬
 
