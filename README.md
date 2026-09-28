@@ -8,6 +8,7 @@ Full-stack developer, mostly backend. Most of my work is in private repos.
 
 - [Xure Consent](https://app.xureid.co.za/): consent management platform (Go, React)
 - [Booah](https://github.com/a-t-h-i/booah): community Q&A for word pronunciations and translations (Go, React, PostgreSQL)
+- [Bot-Lobby](https://github.com/a-t-h-i/bot-lobby): Pi extension that turns Pi into a multi-agent software team (TypeScript)
 
 ### Contact (✿^‿^)
 
