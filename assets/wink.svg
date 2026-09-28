@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="32" viewBox="0 0 130 32">
+  <style>
+    text { font-family: "Segoe UI", "Hiragino Sans", "Noto Sans CJK JP", "Noto Sans JP", "Yu Gothic", "Meiryo", sans-serif; font-size: 22px; fill: #1f2328; opacity: 0; animation: frame 1.8s step-end infinite; }
+    @media (prefers-color-scheme: dark) { text { fill: #e6edf3; } }
+    .f2 { animation-delay: -1.2s; }
+    .f3 { animation-delay: -0.6s; }
+    @keyframes frame { 0% { opacity: 1; } 33.33% { opacity: 0; } }
+  </style>
+  <text class="f1" x="2" y="24">(｡•̀ᴗ•́)✧</text>
+  <text class="f2" x="2" y="24">(｡•̀ᴗ-)✧</text>
+  <text class="f3" x="2" y="24">(｡•̀ᴗ-)✧*:･ﾟ</text>
+</svg>
