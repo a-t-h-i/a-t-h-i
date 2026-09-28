@@ -1,4 +1,4 @@
-## Hi, I'm Athenkosi (ﾉ◕ヮ◕)ﾉ✧
+## Hi, I'm Athenkosi <img src="assets/wave.svg" height="28" alt="(ﾉ◕ヮ◕)ﾉ✧">
 
 Full-stack developer, mostly backend. Most of my work is in private repos.
 
