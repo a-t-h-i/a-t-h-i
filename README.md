@@ -14,4 +14,4 @@ Full-stack developer, mostly backend. Most of my work is in private repos.
 
 [Email](mailto:hlubiathenkosi@gmail.com) · [LinkedIn](https://linkedin.com/in/athenkosi-hlubi)
 
-Chess: [lichess](https://lichess.org/@/mr_cuddles) · [chess.com](https://www.chess.com/member/AHlubi) <img src="assets/pointer.svg" height="24" alt="←(￣︶￣)>">
+Chess: [lichess](https://lichess.org/@/mr_cuddles) · [chess.com](https://www.chess.com/member/AHlubi) <img src="assets/pointer.svg" height="14" alt="←(￣︶￣)>">
