@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="158" height="34" viewBox="0 0 158 34">
+  <style>
+    text { font-family: "Segoe UI", "Hiragino Sans", "Noto Sans CJK JP", "Noto Sans JP", "Yu Gothic", "Meiryo", sans-serif; font-size: 22px; fill: #1f2328; opacity: 0; animation-duration: 28.3s; animation-timing-function: step-end; animation-iteration-count: infinite; }
+    @media (prefers-color-scheme: dark) { text { fill: #e6edf3; } }
+    .f0 { animation-name: a0; }
+    @keyframes a0 { 0.000% { opacity: 1; } 15.194% { opacity: 0; } 16.431% { opacity: 1; } 26.678% { opacity: 0; } 28.799% { opacity: 1; } 30.212% { opacity: 0; } 32.686% { opacity: 1; } 50.707% { opacity: 0; } 54.594% { opacity: 1; } 67.668% { opacity: 0; } 72.261% { opacity: 0; } 75.442% { opacity: 1; } 83.216% { opacity: 0; } 84.276% { opacity: 1; } 85.159% { opacity: 0; } 86.219% { opacity: 1; } 100% { opacity: 1; } }
+    .f1 { animation-name: a1; }
+    @keyframes a1 { 0.000% { opacity: 0; } 15.194% { opacity: 1; } 16.431% { opacity: 0; } 26.678% { opacity: 0; } 28.799% { opacity: 0; } 30.212% { opacity: 0; } 32.686% { opacity: 0; } 50.707% { opacity: 0; } 54.594% { opacity: 0; } 67.668% { opacity: 0; } 72.261% { opacity: 0; } 75.442% { opacity: 0; } 83.216% { opacity: 1; } 84.276% { opacity: 0; } 85.159% { opacity: 1; } 86.219% { opacity: 0; } 100% { opacity: 0; } }
+    .f2 { animation-name: a2; }
+    @keyframes a2 { 0.000% { opacity: 0; } 15.194% { opacity: 0; } 16.431% { opacity: 0; } 26.678% { opacity: 0; } 28.799% { opacity: 0; } 30.212% { opacity: 0; } 32.686% { opacity: 0; } 50.707% { opacity: 1; } 54.594% { opacity: 0; } 67.668% { opacity: 0; } 72.261% { opacity: 0; } 75.442% { opacity: 0; } 83.216% { opacity: 0; } 84.276% { opacity: 0; } 85.159% { opacity: 0; } 86.219% { opacity: 0; } 100% { opacity: 0; } }
+    .f3 { animation-name: a3; }
+    @keyframes a3 { 0.000% { opacity: 0; } 15.194% { opacity: 0; } 16.431% { opacity: 0; } 26.678% { opacity: 1; } 28.799% { opacity: 0; } 30.212% { opacity: 0; } 32.686% { opacity: 0; } 50.707% { opacity: 0; } 54.594% { opacity: 0; } 67.668% { opacity: 0; } 72.261% { opacity: 0; } 75.442% { opacity: 0; } 83.216% { opacity: 0; } 84.276% { opacity: 0; } 85.159% { opacity: 0; } 86.219% { opacity: 0; } 100% { opacity: 0; } }
+    .f4 { animation-name: a4; }
+    @keyframes a4 { 0.000% { opacity: 0; } 15.194% { opacity: 0; } 16.431% { opacity: 0; } 26.678% { opacity: 0; } 28.799% { opacity: 0; } 30.212% { opacity: 1; } 32.686% { opacity: 0; } 50.707% { opacity: 0; } 54.594% { opacity: 0; } 67.668% { opacity: 0; } 72.261% { opacity: 0; } 75.442% { opacity: 0; } 83.216% { opacity: 0; } 84.276% { opacity: 0; } 85.159% { opacity: 0; } 86.219% { opacity: 0; } 100% { opacity: 0; } }
+    .f5 { animation-name: a5; }
+    @keyframes a5 { 0.000% { opacity: 0; } 15.194% { opacity: 0; } 16.431% { opacity: 0; } 26.678% { opacity: 0; } 28.799% { opacity: 0; } 30.212% { opacity: 0; } 32.686% { opacity: 0; } 50.707% { opacity: 0; } 54.594% { opacity: 0; } 67.668% { opacity: 1; } 72.261% { opacity: 0; } 75.442% { opacity: 0; } 83.216% { opacity: 0; } 84.276% { opacity: 0; } 85.159% { opacity: 0; } 86.219% { opacity: 0; } 100% { opacity: 0; } }
+    .f6 { animation-name: a6; }
+    @keyframes a6 { 0.000% { opacity: 0; } 15.194% { opacity: 0; } 16.431% { opacity: 0; } 26.678% { opacity: 0; } 28.799% { opacity: 0; } 30.212% { opacity: 0; } 32.686% { opacity: 0; } 50.707% { opacity: 0; } 54.594% { opacity: 0; } 67.668% { opacity: 0; } 72.261% { opacity: 1; } 75.442% { opacity: 0; } 83.216% { opacity: 0; } 84.276% { opacity: 0; } 85.159% { opacity: 0; } 86.219% { opacity: 0; } 100% { opacity: 0; } }
+  </style>
+  <g>
+    <text class="f0" x="4" y="25">(⌐■_■)</text>
+    <text class="f1" x="4" y="25">(⌐■_■)✧</text>
+    <text class="f2" x="4" y="25">(⌐■_■)b</text>
+    <text class="f3" x="4" y="25">( ⌐■_■)</text>
+    <text class="f4" x="4" y="25">(⌐■_■ )</text>
+    <text class="f5" x="4" y="25">( •_•)</text>
+    <text class="f6" x="4" y="25">( •_•)&gt;⌐■-■</text>
+  </g>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="34" viewBox="0 0 128 34">
+  <style>
+    text { font-family: "Segoe UI", "Hiragino Sans", "Noto Sans CJK JP", "Noto Sans JP", "Yu Gothic", "Meiryo", sans-serif; font-size: 22px; fill: #1f2328; opacity: 0; animation-duration: 39.9s; animation-timing-function: step-end; animation-iteration-count: infinite; }
+    @media (prefers-color-scheme: dark) { text { fill: #e6edf3; } }
+    .f0 { animation-name: a0; }
+    @keyframes a0 { 0.000% { opacity: 1; } 9.524% { opacity: 0; } 9.900% { opacity: 1; } 21.429% { opacity: 0; } 24.937% { opacity: 1; } 32.206% { opacity: 0; } 37.719% { opacity: 1; } 41.980% { opacity: 0; } 42.356% { opacity: 1; } 55.639% { opacity: 0; } 62.155% { opacity: 1; } 69.925% { opacity: 0; } 73.684% { opacity: 1; } 79.699% { opacity: 0; } 80.075% { opacity: 1; } 80.827% { opacity: 0; } 81.203% { opacity: 1; } 91.729% { opacity: 0; } 94.737% { opacity: 1; } 100% { opacity: 1; } }
+    .f1 { animation-name: a1; }
+    @keyframes a1 { 0.000% { opacity: 0; } 9.524% { opacity: 1; } 9.900% { opacity: 0; } 21.429% { opacity: 0; } 24.937% { opacity: 0; } 32.206% { opacity: 0; } 37.719% { opacity: 0; } 41.980% { opacity: 1; } 42.356% { opacity: 0; } 55.639% { opacity: 0; } 62.155% { opacity: 0; } 69.925% { opacity: 0; } 73.684% { opacity: 0; } 79.699% { opacity: 1; } 80.075% { opacity: 0; } 80.827% { opacity: 1; } 81.203% { opacity: 0; } 91.729% { opacity: 0; } 94.737% { opacity: 0; } 100% { opacity: 0; } }
+    .f2 { animation-name: a2; }
+    @keyframes a2 { 0.000% { opacity: 0; } 9.524% { opacity: 0; } 9.900% { opacity: 0; } 21.429% { opacity: 1; } 24.937% { opacity: 0; } 32.206% { opacity: 0; } 37.719% { opacity: 0; } 41.980% { opacity: 0; } 42.356% { opacity: 0; } 55.639% { opacity: 0; } 62.155% { opacity: 0; } 69.925% { opacity: 0; } 73.684% { opacity: 0; } 79.699% { opacity: 0; } 80.075% { opacity: 0; } 80.827% { opacity: 0; } 81.203% { opacity: 0; } 91.729% { opacity: 0; } 94.737% { opacity: 0; } 100% { opacity: 0; } }
+    .f3 { animation-name: a3; }
+    @keyframes a3 { 0.000% { opacity: 0; } 9.524% { opacity: 0; } 9.900% { opacity: 0; } 21.429% { opacity: 0; } 24.937% { opacity: 0; } 32.206% { opacity: 0; } 37.719% { opacity: 0; } 41.980% { opacity: 0; } 42.356% { opacity: 0; } 55.639% { opacity: 0; } 62.155% { opacity: 0; } 69.925% { opacity: 1; } 73.684% { opacity: 0; } 79.699% { opacity: 0; } 80.075% { opacity: 0; } 80.827% { opacity: 0; } 81.203% { opacity: 0; } 91.729% { opacity: 0; } 94.737% { opacity: 0; } 100% { opacity: 0; } }
+    .f4 { animation-name: a4; }
+    @keyframes a4 { 0.000% { opacity: 0; } 9.524% { opacity: 0; } 9.900% { opacity: 0; } 21.429% { opacity: 0; } 24.937% { opacity: 0; } 32.206% { opacity: 1; } 37.719% { opacity: 0; } 41.980% { opacity: 0; } 42.356% { opacity: 0; } 55.639% { opacity: 0; } 62.155% { opacity: 0; } 69.925% { opacity: 0; } 73.684% { opacity: 0; } 79.699% { opacity: 0; } 80.075% { opacity: 0; } 80.827% { opacity: 0; } 81.203% { opacity: 0; } 91.729% { opacity: 0; } 94.737% { opacity: 0; } 100% { opacity: 0; } }
+    .f5 { animation-name: a5; }
+    @keyframes a5 { 0.000% { opacity: 0; } 9.524% { opacity: 0; } 9.900% { opacity: 0; } 21.429% { opacity: 0; } 24.937% { opacity: 0; } 32.206% { opacity: 0; } 37.719% { opacity: 0; } 41.980% { opacity: 0; } 42.356% { opacity: 0; } 55.639% { opacity: 1; } 62.155% { opacity: 0; } 69.925% { opacity: 0; } 73.684% { opacity: 0; } 79.699% { opacity: 0; } 80.075% { opacity: 0; } 80.827% { opacity: 0; } 81.203% { opacity: 0; } 91.729% { opacity: 0; } 94.737% { opacity: 0; } 100% { opacity: 0; } }
+    .f6 { animation-name: a6; }
+    @keyframes a6 { 0.000% { opacity: 0; } 9.524% { opacity: 0; } 9.900% { opacity: 0; } 21.429% { opacity: 0; } 24.937% { opacity: 0; } 32.206% { opacity: 0; } 37.719% { opacity: 0; } 41.980% { opacity: 0; } 42.356% { opacity: 0; } 55.639% { opacity: 0; } 62.155% { opacity: 0; } 69.925% { opacity: 0; } 73.684% { opacity: 0; } 79.699% { opacity: 0; } 80.075% { opacity: 0; } 80.827% { opacity: 0; } 81.203% { opacity: 0; } 91.729% { opacity: 1; } 94.737% { opacity: 0; } 100% { opacity: 0; } }
+  </style>
+  <g>
+    <text class="f0" x="4" y="25">( ˘_˘ )</text>
+    <text class="f1" x="4" y="25">( -_- )</text>
+    <text class="f2" x="4" y="25">( ・_・)ノ</text>
+    <text class="f3" x="4" y="25">(￣^￣)ゞ</text>
+    <text class="f4" x="4" y="25">( ˘_˘ )旦</text>
+    <text class="f5" x="4" y="25">( ˘_˘ )✍</text>
+    <text class="f6" x="4" y="25">( ・_・)b</text>
+  </g>
+</svg>

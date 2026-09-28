@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="145" height="34" viewBox="0 0 145 34">
+  <style>
+    text { font-family: "Segoe UI", "Hiragino Sans", "Noto Sans CJK JP", "Noto Sans JP", "Yu Gothic", "Meiryo", sans-serif; font-size: 22px; fill: #1f2328; opacity: 0; animation-duration: 15.65s; animation-timing-function: step-end; animation-iteration-count: infinite; }
+    @media (prefers-color-scheme: dark) { text { fill: #e6edf3; } }
+    g { animation: bob 2.9s ease-in-out infinite; }
+    @keyframes bob { 0%, 100% { transform: translate(0, 0); } 17% { transform: translate(0, -2px); } 31% { transform: translate(0, 1px); } 52% { transform: translate(0, -3px); } 68% { transform: translate(0, 0); } 83% { transform: translate(0, -1px); } }
+    .f0 { animation-name: a0; }
+    @keyframes a0 { 0.000% { opacity: 1; } 5.112% { opacity: 0; } 7.987% { opacity: 1; } 10.863% { opacity: 0; } 14.058% { opacity: 0; } 16.294% { opacity: 0; } 18.850% { opacity: 0; } 21.086% { opacity: 0; } 24.601% { opacity: 0; } 28.435% { opacity: 1; } 38.658% { opacity: 0; } 40.575% { opacity: 1; } 46.326% { opacity: 0; } 50.799% { opacity: 0; } 53.355% { opacity: 1; } 55.911% { opacity: 0; } 58.786% { opacity: 0; } 61.022% { opacity: 0; } 64.217% { opacity: 1; } 78.275% { opacity: 0; } 80.831% { opacity: 0; } 83.387% { opacity: 1; } 85.942% { opacity: 0; } 91.693% { opacity: 1; } 100% { opacity: 1; } }
+    .f1 { animation-name: a1; }
+    @keyframes a1 { 0.000% { opacity: 0; } 5.112% { opacity: 1; } 7.987% { opacity: 0; } 10.863% { opacity: 1; } 14.058% { opacity: 0; } 16.294% { opacity: 0; } 18.850% { opacity: 0; } 21.086% { opacity: 0; } 24.601% { opacity: 0; } 28.435% { opacity: 0; } 38.658% { opacity: 0; } 40.575% { opacity: 0; } 46.326% { opacity: 0; } 50.799% { opacity: 1; } 53.355% { opacity: 0; } 55.911% { opacity: 0; } 58.786% { opacity: 0; } 61.022% { opacity: 0; } 64.217% { opacity: 0; } 78.275% { opacity: 0; } 80.831% { opacity: 1; } 83.387% { opacity: 0; } 85.942% { opacity: 0; } 91.693% { opacity: 0; } 100% { opacity: 0; } }
+    .f2 { animation-name: a2; }
+    @keyframes a2 { 0.000% { opacity: 0; } 5.112% { opacity: 0; } 7.987% { opacity: 0; } 10.863% { opacity: 0; } 14.058% { opacity: 0; } 16.294% { opacity: 1; } 18.850% { opacity: 0; } 21.086% { opacity: 1; } 24.601% { opacity: 0; } 28.435% { opacity: 0; } 38.658% { opacity: 0; } 40.575% { opacity: 0; } 46.326% { opacity: 0; } 50.799% { opacity: 0; } 53.355% { opacity: 0; } 55.911% { opacity: 0; } 58.786% { opacity: 0; } 61.022% { opacity: 0; } 64.217% { opacity: 0; } 78.275% { opacity: 1; } 80.831% { opacity: 0; } 83.387% { opacity: 0; } 85.942% { opacity: 0; } 91.693% { opacity: 0; } 100% { opacity: 0; } }
+    .f3 { animation-name: a3; }
+    @keyframes a3 { 0.000% { opacity: 0; } 5.112% { opacity: 0; } 7.987% { opacity: 0; } 10.863% { opacity: 0; } 14.058% { opacity: 1; } 16.294% { opacity: 0; } 18.850% { opacity: 1; } 21.086% { opacity: 0; } 24.601% { opacity: 0; } 28.435% { opacity: 0; } 38.658% { opacity: 0; } 40.575% { opacity: 0; } 46.326% { opacity: 0; } 50.799% { opacity: 0; } 53.355% { opacity: 0; } 55.911% { opacity: 0; } 58.786% { opacity: 1; } 61.022% { opacity: 0; } 64.217% { opacity: 0; } 78.275% { opacity: 0; } 80.831% { opacity: 0; } 83.387% { opacity: 0; } 85.942% { opacity: 0; } 91.693% { opacity: 0; } 100% { opacity: 0; } }
+    .f4 { animation-name: a4; }
+    @keyframes a4 { 0.000% { opacity: 0; } 5.112% { opacity: 0; } 7.987% { opacity: 0; } 10.863% { opacity: 0; } 14.058% { opacity: 0; } 16.294% { opacity: 0; } 18.850% { opacity: 0; } 21.086% { opacity: 0; } 24.601% { opacity: 1; } 28.435% { opacity: 0; } 38.658% { opacity: 0; } 40.575% { opacity: 0; } 46.326% { opacity: 0; } 50.799% { opacity: 0; } 53.355% { opacity: 0; } 55.911% { opacity: 1; } 58.786% { opacity: 0; } 61.022% { opacity: 1; } 64.217% { opacity: 0; } 78.275% { opacity: 0; } 80.831% { opacity: 0; } 83.387% { opacity: 0; } 85.942% { opacity: 0; } 91.693% { opacity: 0; } 100% { opacity: 0; } }
+    .f5 { animation-name: a5; }
+    @keyframes a5 { 0.000% { opacity: 0; } 5.112% { opacity: 0; } 7.987% { opacity: 0; } 10.863% { opacity: 0; } 14.058% { opacity: 0; } 16.294% { opacity: 0; } 18.850% { opacity: 0; } 21.086% { opacity: 0; } 24.601% { opacity: 0; } 28.435% { opacity: 0; } 38.658% { opacity: 0; } 40.575% { opacity: 0; } 46.326% { opacity: 1; } 50.799% { opacity: 0; } 53.355% { opacity: 0; } 55.911% { opacity: 0; } 58.786% { opacity: 0; } 61.022% { opacity: 0; } 64.217% { opacity: 0; } 78.275% { opacity: 0; } 80.831% { opacity: 0; } 83.387% { opacity: 0; } 85.942% { opacity: 1; } 91.693% { opacity: 0; } 100% { opacity: 0; } }
+    .f6 { animation-name: a6; }
+    @keyframes a6 { 0.000% { opacity: 0; } 5.112% { opacity: 0; } 7.987% { opacity: 0; } 10.863% { opacity: 0; } 14.058% { opacity: 0; } 16.294% { opacity: 0; } 18.850% { opacity: 0; } 21.086% { opacity: 0; } 24.601% { opacity: 0; } 28.435% { opacity: 0; } 38.658% { opacity: 1; } 40.575% { opacity: 0; } 46.326% { opacity: 0; } 50.799% { opacity: 0; } 53.355% { opacity: 0; } 55.911% { opacity: 0; } 58.786% { opacity: 0; } 61.022% { opacity: 0; } 64.217% { opacity: 0; } 78.275% { opacity: 0; } 80.831% { opacity: 0; } 83.387% { opacity: 0; } 85.942% { opacity: 0; } 91.693% { opacity: 0; } 100% { opacity: 0; } }
+  </style>
+  <g>
+    <text class="f0" x="4" y="25">←(￣︶￣)&gt;</text>
+    <text class="f1" x="4" y="25">↖(￣︶￣)&gt;</text>
+    <text class="f2" x="4" y="25">&lt;(￣︶￣)↗</text>
+    <text class="f3" x="4" y="25">&lt;(￣︶￣)&gt;</text>
+    <text class="f4" x="4" y="25">〜(￣︶￣)〜</text>
+    <text class="f5" x="4" y="25">⇐(￣▽￣)&gt;</text>
+    <text class="f6" x="4" y="25">←(￣︶￣ )</text>
+  </g>
+</svg>
