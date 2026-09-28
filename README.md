@@ -1,16 +1,16 @@
-## Hi, I'm Athenkosi <img src="assets/cool.svg" height="30" alt="(⌐■_■)">
+## Hi, I'm Athenkosi <img src="assets/cool.svg" height="20" alt="(⌐■_■)">
 
 Full-stack developer, mostly backend. Most of my work is in private repos.
 
 **Stack:** Go, Python, C#, TypeScript, SQL, PostgreSQL, Docker, Linux
 
-### Projects <img src="assets/dev.svg" height="26" alt="( ・_・)⌨ >_">
+### Projects <img src="assets/dev.svg" height="14" alt="( ・_・)⌨ >_">
 
 - [Xure Consent](https://app.xureid.co.za/): consent management platform (Go, React)
 - [Booah](https://github.com/a-t-h-i/booah): community Q&A for word pronunciations and translations (Go, React, PostgreSQL)
 - [Bot-Lobby](https://github.com/a-t-h-i/bot-lobby): Pi extension that turns Pi into a multi-agent software team (TypeScript)
 
-### Contact <img src="assets/business.svg" height="26" alt="( ˘_˘ )">
+### Contact <img src="assets/business.svg" height="14" alt="( ˘_˘ )">
 
 [Email](mailto:hlubiathenkosi@gmail.com) · [LinkedIn](https://linkedin.com/in/athenkosi-hlubi)
 
