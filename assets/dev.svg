@@ -12,7 +12,7 @@
     @keyframes a3 { 0.000% { opacity: 0; } 1.976% { opacity: 0; } 3.953% { opacity: 0; } 5.929% { opacity: 0; } 7.510% { opacity: 0; } 15.020% { opacity: 0; } 16.996% { opacity: 0; } 19.368% { opacity: 0; } 19.960% { opacity: 0; } 24.704% { opacity: 1; } 33.004% { opacity: 0; } 38.538% { opacity: 0; } 40.316% { opacity: 0; } 42.095% { opacity: 0; } 47.233% { opacity: 0; } 53.557% { opacity: 0; } 62.648% { opacity: 0; } 70.553% { opacity: 0; } 72.530% { opacity: 0; } 74.506% { opacity: 0; } 75.099% { opacity: 0; } 77.075% { opacity: 0; } 79.051% { opacity: 0; } 89.723% { opacity: 1; } 94.071% { opacity: 0; } 96.443% { opacity: 0; } 100% { opacity: 0; } }
     .f4 { animation-name: a4; }
     @keyframes a4 { 0.000% { opacity: 0; } 1.976% { opacity: 0; } 3.953% { opacity: 0; } 5.929% { opacity: 0; } 7.510% { opacity: 0; } 15.020% { opacity: 0; } 16.996% { opacity: 0; } 19.368% { opacity: 0; } 19.960% { opacity: 0; } 24.704% { opacity: 0; } 33.004% { opacity: 0; } 38.538% { opacity: 0; } 40.316% { opacity: 0; } 42.095% { opacity: 1; } 47.233% { opacity: 0; } 53.557% { opacity: 0; } 62.648% { opacity: 0; } 70.553% { opacity: 0; } 72.530% { opacity: 0; } 74.506% { opacity: 0; } 75.099% { opacity: 0; } 77.075% { opacity: 0; } 79.051% { opacity: 0; } 89.723% { opacity: 0; } 94.071% { opacity: 0; } 96.443% { opacity: 0; } 100% { opacity: 0; } }
-    .f5 { animation-name: a5; }
+    .f5 { animation-name: a5;}
     @keyframes a5 { 0.000% { opacity: 0; } 1.976% { opacity: 0; } 3.953% { opacity: 0; } 5.929% { opacity: 0; } 7.510% { opacity: 0; } 15.020% { opacity: 0; } 16.996% { opacity: 0; } 19.368% { opacity: 0; } 19.960% { opacity: 0; } 24.704% { opacity: 0; } 33.004% { opacity: 0; } 38.538% { opacity: 0; } 40.316% { opacity: 0; } 42.095% { opacity: 0; } 47.233% { opacity: 1; } 53.557% { opacity: 0; } 62.648% { opacity: 0; } 70.553% { opacity: 0; } 72.530% { opacity: 0; } 74.506% { opacity: 0; } 75.099% { opacity: 0; } 77.075% { opacity: 0; } 79.051% { opacity: 0; } 89.723% { opacity: 0; } 94.071% { opacity: 0; } 96.443% { opacity: 0; } 100% { opacity: 0; } }
     .f6 { animation-name: a6; }
     @keyframes a6 { 0.000% { opacity: 0; } 1.976% { opacity: 0; } 3.953% { opacity: 0; } 5.929% { opacity: 0; } 7.510% { opacity: 0; } 15.020% { opacity: 0; } 16.996% { opacity: 0; } 19.368% { opacity: 0; } 19.960% { opacity: 0; } 24.704% { opacity: 0; } 33.004% { opacity: 0; } 38.538% { opacity: 0; } 40.316% { opacity: 0; } 42.095% { opacity: 0; } 47.233% { opacity: 0; } 53.557% { opacity: 0; } 62.648% { opacity: 1; } 70.553% { opacity: 0; } 72.530% { opacity: 0; } 74.506% { opacity: 0; } 75.099% { opacity: 0; } 77.075% { opacity: 0; } 79.051% { opacity: 0; } 89.723% { opacity: 0; } 94.071% { opacity: 0; } 96.443% { opacity: 0; } 100% { opacity: 0; } }
@@ -25,7 +25,7 @@
     <text class="f2" x="4" y="25">( •̀_•́)⌨ &gt;_▌</text>
     <text class="f3" x="4" y="25">( ・ω・)? </text>
     <text class="f4" x="4" y="25">(°ロ°) bug!</text>
-    <text class="f5" x="4" y="25">(ง •̀_•́)ง</text>
+    <text class="f5" x="4" y="25" style="color: red;">(ง •̀_•́)ง</text>
     <text class="f6" x="4" y="25">( •̀ᴗ•́)و ✓</text>
     <text class="f7" x="4" y="25">( -_-)⌨ &gt;_</text>
   </g>
